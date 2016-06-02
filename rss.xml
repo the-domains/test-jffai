@@ -2,14 +2,35 @@
     <channel>
         <title><![CDATA[test.jffai]]></title>
         <description><![CDATA[test.jffai]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-jffai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 10:19:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 10:19:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-jffai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b740f383-b48f-41f7-9d09-a3d7d75c388c.jpg">]]></description>
+            <link>https://thegrid.ai/test-jffai/6aa7b72b-7cab-485d-91b4-6fac9c9cadc7/index.html</link>
+            <guid isPermaLink="false">6aa7b72b-7cab-485d-91b4-6fac9c9cadc7</guid>
+            <pubDate>Thu, 02 Jun 2016 10:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7617a6a5-e6f4-4e0b-adb7-cd625a4db370.jpg">]]></description>
+            <link>https://thegrid.ai/test-jffai/e2bcaef6-f56d-44b3-b933-a5e22dc4f41c/index.html</link>
+            <guid isPermaLink="false">e2bcaef6-f56d-44b3-b933-a5e22dc4f41c</guid>
+            <pubDate>Thu, 02 Jun 2016 10:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61ab8537-2327-4146-9676-1383a2385cb9.jpg">]]></description>
+            <link>https://thegrid.ai/test-jffai/d091cbdb-f9a4-41ec-8c33-d3e77105618b/index.html</link>
+            <guid isPermaLink="false">d091cbdb-f9a4-41ec-8c33-d3e77105618b</guid>
+            <pubDate>Thu, 02 Jun 2016 10:19:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/603dae8f-f863-487b-b0ae-9186a5db7c43.jpg">]]></description>
-            <link>undefinedc5d22a78-a9e6-4746-b938-583239ff73fb/index.html</link>
+            <link>https://thegrid.ai/test-jffai/c5d22a78-a9e6-4746-b938-583239ff73fb/index.html</link>
             <guid isPermaLink="false">c5d22a78-a9e6-4746-b938-583239ff73fb</guid>
             <pubDate>Thu, 02 Jun 2016 10:19:09 GMT</pubDate>
         </item>
